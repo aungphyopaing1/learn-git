@@ -3,5 +3,5 @@
 Testing for
 
 # Installation
-* * npm install 
-* * fijeifjekfekfkedlfke
+* npm install 
+* fijeifjekfekfkedlfke
